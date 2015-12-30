@@ -7,12 +7,12 @@ Time Spent: 30 hours
 ##User Stories
 
 The Following **required** functionality is complete:
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values
+* A user can enter a bill amount, choose a tip percentage, and see the tip and total values
 
 ##Video walkthough
 Here is a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/flQozQ8.gifv/Video Walkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/flQozQ8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
