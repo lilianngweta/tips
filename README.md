@@ -12,7 +12,7 @@ The Following **required** functionality is complete:
 ##Video walkthough
 Here is a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/flQozQ8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/flQozQ8.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
